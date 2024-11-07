@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab0010_Python_MinMax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab005_Python_keywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab006_Python_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab007_Python_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab008_Python_Type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab009_Python_Variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +54,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab0010_Python_MinMax.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005_Python_keywords.executor": "Run",
+    "Python.Lab007_Python_variables.executor": "Run",
+    "Python.Lab008_Python_Type.executor": "Run",
+    "Python.Lab009_Python_Variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -74,6 +83,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730774776223</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1730948361517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730948361517</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
