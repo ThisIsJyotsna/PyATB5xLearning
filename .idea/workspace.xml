@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab0010_Python_MinMax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab005_Python_keywords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab006_Python_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab007_Python_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab008_Python_Type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab009_Python_Variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="7th Nov Commit">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab0011_Python_ComplexNumber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab0010_Python_MinMax.executor": "Run",
+    "Python.Lab0011_Python_ComplexNumber.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
@@ -91,11 +85,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730948361517</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="7th Nov Commit">
+      <option name="closed" value="true" />
+      <created>1730949529685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730949529685</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="7th Nov Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="7th Nov Commit" />
   </component>
 </project>
