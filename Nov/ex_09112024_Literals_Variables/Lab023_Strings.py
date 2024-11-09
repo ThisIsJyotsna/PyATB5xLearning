@@ -1,0 +1,5 @@
+name=input("Enter your name")
+print(name)
+print("Length of the string is",len(name))
+print(name.upper())
+print(name.lower())
