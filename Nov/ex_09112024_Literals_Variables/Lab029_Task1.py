@@ -5,7 +5,7 @@ num3=int(input("Enter the third number"))
 sum=num1+num2+num3
 sub=num1-num2-num3
 mul=num1*num2*num3
-div=num1/num2/num3
+div=(num1/num2)/num3
 
 print("Sum of three numbers is",sum)
 print("Subtraction of three numbers is",sub)
