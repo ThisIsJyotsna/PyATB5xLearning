@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="12th Nov commit">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab_039_LeapYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab_040_Triangle.py" afterDir="false" />
+    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="14th Nov commit">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab_041_GradeCalculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Opertaors/Lab_038_AreaOfCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_12112024_Opertaors/Lab_038_AreaOfCircle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +81,7 @@
     "Python.Lab_038_AreaOfCircle.executor": "Run",
     "Python.Lab_039_LeapYear.executor": "Run",
     "Python.Lab_040_Triangle.executor": "Run",
+    "Python.Lab_041_GradeCalculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -159,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731386442146</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="14th Nov commit">
+      <option name="closed" value="true" />
+      <created>1731643160607</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731643160607</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,6 +175,7 @@
     <MESSAGE value="7th Nov Commit 2" />
     <MESSAGE value="9th Nov commit" />
     <MESSAGE value="12th Nov commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th Nov commit" />
+    <MESSAGE value="14th Nov commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="14th Nov commit" />
   </component>
 </project>
