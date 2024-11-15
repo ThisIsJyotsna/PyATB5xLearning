@@ -15,3 +15,5 @@ elif area==10:
 
 else:
     print("area is less than 10")
+
+

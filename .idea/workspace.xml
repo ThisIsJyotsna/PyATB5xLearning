@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="12th Nov commit">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Opertaors/Lab_038_AreaOfCircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab_039_LeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab_040_Triangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Opertaors/Lab_038_AreaOfCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_12112024_Opertaors/Lab_038_AreaOfCircle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +81,8 @@
     "Python.Lab_036_Task2.executor": "Run",
     "Python.Lab_037_Task3.executor": "Run",
     "Python.Lab_038_AreaOfCircle.executor": "Run",
+    "Python.Lab_039_LeapYear.executor": "Run",
+    "Python.Lab_040_Triangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -147,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731385902830</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="12th Nov commit">
+      <option name="closed" value="true" />
+      <created>1731386442146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731386442146</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
