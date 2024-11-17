@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="14th Nov commit">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_042_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_043_Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_044_Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_045_Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_046_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_047_Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_048_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_049_Table.py" afterDir="false" />
+    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="16th Nov commit">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_050_RightAngleTriangleLeft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_051_Palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +91,9 @@
     "Python.Lab_047_Continue.executor": "Run",
     "Python.Lab_048_Break.executor": "Run",
     "Python.Lab_049_Table.executor": "Run",
+    "Python.Lab_050.executor": "Run",
+    "Python.Lab_050_RightAngleTriangleLeft.executor": "Run",
+    "Python.Lab_051_Palindrome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -218,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731644217952</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="16th Nov commit">
+      <option name="closed" value="true" />
+      <created>1731852784407</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731852784407</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,6 +233,7 @@
     <MESSAGE value="9th Nov commit" />
     <MESSAGE value="12th Nov commit" />
     <MESSAGE value="14th Nov commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="14th Nov commit" />
+    <MESSAGE value="16th Nov commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="16th Nov commit" />
   </component>
 </project>
