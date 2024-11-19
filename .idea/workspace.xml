@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="16th Nov commit">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_050_RightAngleTriangleLeft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_051_Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab_054_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab_055_functionsWithUserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab_056_MultipleArgs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab_057_MultipleArgs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_049_Table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab_049_Table.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +77,8 @@
     "Python.Lab028_EscapeSequence.executor": "Run",
     "Python.Lab029_Task1.executor": "Run",
     "Python.Lab030_Task2.executor": "Run",
+    "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
     "Python.Lab_020_BuiltIn_Functions.executor": "Run",
     "Python.Lab_031_UnaryOperator.executor": "Run",
     "Python.Lab_032_Divmod.executor": "Run",
@@ -94,6 +102,10 @@
     "Python.Lab_050.executor": "Run",
     "Python.Lab_050_RightAngleTriangleLeft.executor": "Run",
     "Python.Lab_051_Palindrome.executor": "Run",
+    "Python.Lab_054_functions.executor": "Run",
+    "Python.Lab_055_functionsWithUserInput.executor": "Run",
+    "Python.Lab_056_MultipleArgs.executor": "Run",
+    "Python.Lab_057_MultipleArgs.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -223,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731852784407</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="16th Nov commit">
+      <option name="closed" value="true" />
+      <created>1731853845122</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731853845122</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
