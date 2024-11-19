@@ -1,5 +1,5 @@
 def makeAPizza(*toppings):
- #  3for i in toppings:
+ #  for i in toppings:
     # print(i)
     print(toppings)
 
