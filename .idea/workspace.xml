@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="19th Nov commit">
-      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab_057_MultipleArgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab_057_MultipleArgs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab_058_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024/Lab_059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024/Lab_060_rightAngleTriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024/Lab_061_Pyramid1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ThisIsJyotsna"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ThisIsJyotsna&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ThisIsJyotsna/PyATB5xLearning.git",
-    "accountId": "56e620e8-1a05-46a6-b800-3875d6d919f1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ThisIsJyotsna/PyATB5xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;56e620e8-1a05-46a6-b800-3875d6d919f1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2oPci9SYOM9eBxBc9TWi83yGpiY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -83,7 +87,7 @@
     "Python.Lab_039_LeapYear.executor": "Run",
     "Python.Lab_040_Triangle.executor": "Run",
     "Python.Lab_041_GradeCalculator.executor": "Run",
-    "Python.Lab_042_Task.executor": "Debug",
+    "Python.Lab_042_Task.executor": "Run",
     "Python.Lab_043_Loops.executor": "Run",
     "Python.Lab_044_Loops.executor": "Run",
     "Python.Lab_045_Loops.executor": "Run",
@@ -98,6 +102,10 @@
     "Python.Lab_055_functionsWithUserInput.executor": "Run",
     "Python.Lab_056_MultipleArgs.executor": "Run",
     "Python.Lab_057_MultipleArgs.executor": "Run",
+    "Python.Lab_058_return.executor": "Run",
+    "Python.Lab_059.executor": "Run",
+    "Python.Lab_060_rightAngleTriangle.executor": "Run",
+    "Python.Lab_061_Pyramid1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -243,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731985091273</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="19th Nov commit">
+      <option name="closed" value="true" />
+      <created>1731985110720</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731985110720</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
