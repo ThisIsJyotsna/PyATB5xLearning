@@ -1,0 +1,6 @@
+my_set=("hello","joe","mojo","jojo")
+myList=list(my_set)
+print(myList)
+print(myList.pop())
+myList.append("jyo")
+print(myList)

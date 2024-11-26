@@ -4,12 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="19th Nov commit">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab_058_return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024/Lab_059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024/Lab_060_rightAngleTriangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024/Lab_061_Pyramid1.py" afterDir="false" />
+    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="21st Nov commit">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024/Lab_062_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024/Lab_063_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024/Lab_064_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024/Lab_065_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_066_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_067_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_068_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_069_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_070_DictFrequencyOfChar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Lab001_DataType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Lab002_Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Lab003_SumOfTwoNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Lab004_StringOperations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Lab005_ReverseAString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024/Lab_061_Pyramid1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_21112024/Lab_061_Pyramid1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +65,16 @@
   "keyToString": {
     "Python.Lab0010_Python_MinMax.executor": "Run",
     "Python.Lab0011_Python_ComplexNumber.executor": "Run",
+    "Python.Lab001_DataType.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
+    "Python.Lab002_Table.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
+    "Python.Lab003_SumOfTwoNumbers.executor": "Run",
     "Python.Lab004.executor": "Run",
+    "Python.Lab004_StringOperations.executor": "Run",
     "Python.Lab005_Python_keywords.executor": "Run",
+    "Python.Lab005_ReverseAString.executor": "Run",
     "Python.Lab007_Python_variables.executor": "Run",
     "Python.Lab008_Python_Type.executor": "Run",
     "Python.Lab009_Python_Variables.executor": "Run",
@@ -106,6 +123,15 @@
     "Python.Lab_059.executor": "Run",
     "Python.Lab_060_rightAngleTriangle.executor": "Run",
     "Python.Lab_061_Pyramid1.executor": "Run",
+    "Python.Lab_062_List.executor": "Run",
+    "Python.Lab_063_set.executor": "Run",
+    "Python.Lab_064_List.executor": "Run",
+    "Python.Lab_065_Set.executor": "Run",
+    "Python.Lab_066_Dict.executor": "Run",
+    "Python.Lab_067_Dict.executor": "Run",
+    "Python.Lab_068_Dict.executor": "Run",
+    "Python.Lab_069_Dict.executor": "Run",
+    "Python.Lab_070_DictFrequencyOfChar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -259,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731985110720</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="21st Nov commit">
+      <option name="closed" value="true" />
+      <created>1732281732475</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732281732475</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,6 +305,7 @@
     <MESSAGE value="14th Nov commit" />
     <MESSAGE value="16th Nov commit" />
     <MESSAGE value="19th Nov commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="19th Nov commit" />
+    <MESSAGE value="21st Nov commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="21st Nov commit" />
   </component>
 </project>
