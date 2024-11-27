@@ -4,24 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="21st Nov commit">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024/Lab_062_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024/Lab_063_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024/Lab_064_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024/Lab_065_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_066_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_067_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_068_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_069_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_070_DictFrequencyOfChar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Lab001_DataType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Lab002_Table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Lab003_SumOfTwoNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Lab004_StringOperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Lab005_ReverseAString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/__init__.py" afterDir="false" />
+    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="26st Nov commit">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_071_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_072_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024/Lab_073_SumOfValuesFromDict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Lab006_AreaOfACircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Lab007_TernaryOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Lab008_CubeofANumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024/Lab_061_Pyramid1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_21112024/Lab_061_Pyramid1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +65,10 @@
     "Python.Lab004_StringOperations.executor": "Run",
     "Python.Lab005_Python_keywords.executor": "Run",
     "Python.Lab005_ReverseAString.executor": "Run",
+    "Python.Lab006_AreaOfACircle.executor": "Run",
     "Python.Lab007_Python_variables.executor": "Run",
+    "Python.Lab007_TernaryOperator.executor": "Run",
+    "Python.Lab008_CubeofANumber.executor": "Run",
     "Python.Lab008_Python_Type.executor": "Run",
     "Python.Lab009_Python_Variables.executor": "Run",
     "Python.Lab016.executor": "Run",
@@ -132,6 +125,9 @@
     "Python.Lab_068_Dict.executor": "Run",
     "Python.Lab_069_Dict.executor": "Run",
     "Python.Lab_070_DictFrequencyOfChar.executor": "Run",
+    "Python.Lab_071_Task1.executor": "Run",
+    "Python.Lab_072_Task2.executor": "Run",
+    "Python.Lab_073_SumOfValuesFromDict.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -293,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732281732475</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="26st Nov commit">
+      <option name="closed" value="true" />
+      <created>1732633488667</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732633488667</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,6 +310,7 @@
     <MESSAGE value="16th Nov commit" />
     <MESSAGE value="19th Nov commit" />
     <MESSAGE value="21st Nov commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="21st Nov commit" />
+    <MESSAGE value="26st Nov commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="26st Nov commit" />
   </component>
 </project>
