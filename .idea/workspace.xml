@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="26st Nov commit">
-      <change afterPath="$PROJECT_DIR$/Practice/Lab_009_Decirators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Lab_010_FibonacciSeries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Lab_011_Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Lab_012_ReverseANumber.py" afterDir="false" />
+    <list default="true" id="430abb70-c024-455d-95cb-63333a7d010f" name="Changes" comment="28st Nov commit">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/Lab_077_readFromEnv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_03122024/Lab_079_SingleInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_03122024/Lab_080_MultipleInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_03122024/Lab_081_MultilevelInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_03122024/Lab_082_HierarchicalInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_03122024/Lab_083_HybridInheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab_074_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOPs/Lab_075_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024/Lab_076_Encap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024/Lab_078_GlobalVar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,6 +137,15 @@
     "Python.Lab_071_Task1.executor": "Run",
     "Python.Lab_072_Task2.executor": "Run",
     "Python.Lab_073_SumOfValuesFromDict.executor": "Run",
+    "Python.Lab_074_OOPs.executor": "Run",
+    "Python.Lab_075_Task2.executor": "Run",
+    "Python.Lab_076_Encap.executor": "Run",
+    "Python.Lab_077_readFromEnv.executor": "Run",
+    "Python.Lab_078_GlobalVar.executor": "Run",
+    "Python.Lab_079_SingleInheritance.executor": "Run",
+    "Python.Lab_080_MultipleInheritance.executor": "Run",
+    "Python.Lab_081_MultilevelInheritance.executor": "Run",
+    "Python.Lab_082_HierarchicalInheritance.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -315,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732717198641</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="28st Nov commit">
+      <option name="closed" value="true" />
+      <created>1732803544332</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1732803544332</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -329,6 +353,7 @@
     <MESSAGE value="19th Nov commit" />
     <MESSAGE value="21st Nov commit" />
     <MESSAGE value="26st Nov commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="26st Nov commit" />
+    <MESSAGE value="28st Nov commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="28st Nov commit" />
   </component>
 </project>
